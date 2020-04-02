@@ -17,10 +17,10 @@
  }
 
  .jumbotron {
-    padding:70px 30px 70px 30px;
-    margin:0px auto;
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
     background: darkorchid;
-    color:floralwhite;
+    color: floralwhite;
 }
 
 address{
@@ -36,4 +36,11 @@ body{
 
 .navbar-dark{
     background: #512DA8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
